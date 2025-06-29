@@ -1,6 +1,10 @@
 import json
 import re
 from ibm_watson_machine_learning.foundation_models import Model
+from fastapi import FastAPI, Request
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+import uvicorn
 
 # 🔐 Credentials
 credentials = {
@@ -288,14 +292,38 @@ For: "{complaint}"
                 return result
     return result  # Use last parsed result, assuming Granite provides something usable
 
+# FastAPI app
+app = FastAPI()
+
+# Allow CORS for local dev and frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://opulent-couscous-977p55jwp6ppcp64q-3000.app.github.dev",
+        "https://opulent-couscous-977p55jwp6ppcp64q-8000.app.github.dev"
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+class ComplaintRequest(BaseModel):
+    complaint: str
+
+@app.post("/process_complaint")
+def process_complaint_api(data: ComplaintRequest):
+    result = process_complaint(data.complaint)
+    return result
+
 # 🚀 Main Execution
 if __name__ == "__main__":
-    #test_complaint = "I am unable to access online registration for vaccination due to technical issues; kindly assist."
-    #test_complaint = "Can you provide information on the vaccination schedule for children under 5 in my area? Looking to ensure my child is up-to-date."
-    #test_complaint = "There was a fire accident near my house."
-    while True:
-        test_complaint = input("Enter prompt ('exit' to quit):").strip()
-        if test_complaint == "exit":
-            break
-        result = process_complaint(test_complaint)
-        print(json.dumps(result))
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "serve":
+        uvicorn.run("hope:app", host="0.0.0.0", port=8000, reload=True)
+    else:
+        while True:
+            test_complaint = input("Enter prompt ('exit' to quit):").strip()
+            if test_complaint == "exit":
+                break
+            result = process_complaint(test_complaint)
+            print(json.dumps(result))

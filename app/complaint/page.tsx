@@ -307,14 +307,12 @@ export default function ComplaintForm() {
     try {
       // Prepare the request body for Flask backend
       const requestBody = {
-        message: formData.complaint,
-        imageUrl: imagePreview || "",
-        location: formData.location,
+        complaint: formData.complaint
       }
 
       console.log("Sending request to Flask backend:", requestBody)
 
-      const response = await fetch("http://localhost:8000/submit", {
+      const response = await fetch("https://opulent-couscous-977p55jwp6ppcp64q-8000.app.github.dev/process_complaint", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
