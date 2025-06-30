@@ -1,4 +1,4 @@
- HUMSAFAR – Your Civic Companion 🚀
+ HUMSAFAR 
 
 > *Drop your complaint. We do the chasing.*
 
@@ -13,16 +13,18 @@ HUMSAFAR is an AI-powered platform that simplifies public issue reporting. With 
 ## 🎥 Project Demo
 
 Watch the full 3-minute walkthrough of HUMSAFAR in action:  
-**[Demo Video →](https://your-demo-link.com)**  
+**[Demo Video →](https://www.youtube.com/watch?v=NgoQovnJpFw)**  
 > Includes AI logic, user flow, urgency detection, and admin dashboard.
 
 ---
 
 ## 📸 Project Screenshots
 
-| User View | Admin Dashboard |
-|-----------|-----------------|
-| ![User Upload](https://your-image-link.com/user.png) | ![Admin View](https://your-image-link.com/admin.png) |
+<a href="https://ibb.co/HDN1wGDs"><img src="https://i.ibb.co/tMZkjYMt/IMG-20250630-WA0006.jpg" alt="IMG-20250630-WA0006" border="0"></a>
+<a href="https://ibb.co/XZwJNc14"><img src="https://i.ibb.co/bgfdqcT3/IMG-20250630-WA0004.jpg" alt="IMG-20250630-WA0004" border="0"></a>
+<a href="https://ibb.co/NnGtzNnX"><img src="https://i.ibb.co/FqdmtYq9/IMG-20250630-WA0005.jpg" alt="IMG-20250630-WA0005" border="0"></a>
+<a href="https://ibb.co/gZVPc4JK"><img src="https://i.ibb.co/v4YQMXkn/IMG-20250630-WA0002.jpg" alt="IMG-20250630-WA0002" border="0"></a>
+<a href="https://ibb.co/F4fwGFdf"><img src="https://i.ibb.co/QvqNs4xq/IMG-20250630-WA0003.jpg" alt="IMG-20250630-WA0003" border="0"></a>
 
 ---
 
@@ -105,10 +107,5 @@ Submit a pull request
 
 📦 Vercel / Render (for hosting)
 
-📜 License
-This project is licensed under the MIT License – see the LICENSE.md file for details.
 
-📬 Support / Questions
-If you have any questions or want to connect with the team:
-📧 Email: your-email@example.com
-🌐 Website: www.humsafar.ai
+
