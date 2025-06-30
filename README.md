@@ -40,10 +40,16 @@ Watch the full 3-minute walkthrough of HUMSAFAR in action:
 - 🌍 Built for global scalability
 
 ---
-
 👨‍👩‍👧‍👦 Meet the Team
-<a href="https://ibb.co/LDyC4DBX"><img src="https://i.ibb.co/sp4FLpcd/Screenshot-2025-06-30-090137.jpg" alt="Screenshot-2025-06-30-090137" border="0"></a>
+
+
+
+
 <a href="https://ibb.co/Dg4tj6sb"><img src="https://i.ibb.co/PzxNVb3Y/Screenshot-2025-06-30-090121.jpg" alt="Screenshot-2025-06-30-090121" border="0"></a>
+
+
+<a href="https://ibb.co/LDyC4DBX"><img src="https://i.ibb.co/sp4FLpcd/Screenshot-2025-06-30-090137.jpg" alt="Screenshot-2025-06-30-090137" border="0"></a>
+
 
 
 
