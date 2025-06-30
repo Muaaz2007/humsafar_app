@@ -5,19 +5,21 @@
 
 HUMSAFAR is an AI-powered platform that simplifies public issue reporting. With just a photo, voice or text, and location, anyone can submit a complaint — and HUMSAFAR takes care of the rest. Built using IBM Granite models, it understands, summarizes, prioritizes, and routes complaints to the right department. No forms. No confusion. Just action.
 
----
+------------------------------------------------------------------------------------------------------
 
 ## ![Shields](https://img.shields.io/badge/status-Built-blue) ![License](https://img.shields.io/github/license/yourusername/humsafar) ![Built with IBM Granite](https://img.shields.io/badge/AI-IBM%20Granite-blueviolet)
 
----
+-----------------------------------------------------------------------------------------------------
 
 ## 🎥 Project Demo
 
-Watch the full 3-minute walkthrough of HUMSAFAR in action:  
-**[Demo Video →]  https://www.youtube.com/watch?v=NgoQovnJpFw
+Watch the full 3-minute walkthrough of HUMSAFAR in action: 
+
+Demo Video --→  https://www.youtube.com/watch?v=NgoQovnJpFw
+
 > Includes AI logic, user flow, urgency detection, and admin dashboard.
 
----
+-------------------------------------------------------------------------------------------------------
 
 ## 📸 Project Screenshots
 
@@ -27,7 +29,7 @@ Watch the full 3-minute walkthrough of HUMSAFAR in action:
 <a href="https://ibb.co/gZVPc4JK"><img src="https://i.ibb.co/v4YQMXkn/IMG-20250630-WA0002.jpg" alt="IMG-20250630-WA0002" border="0"></a>
 <a href="https://ibb.co/F4fwGFdf"><img src="https://i.ibb.co/QvqNs4xq/IMG-20250630-WA0003.jpg" alt="IMG-20250630-WA0003" border="0"></a>
 
----
+----------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ Features
 
@@ -40,7 +42,8 @@ Watch the full 3-minute walkthrough of HUMSAFAR in action:
 - 📊 Admin dashboard with live complaint feed
 - 🌍 Built for global scalability
 
----
+----------------------------------------------------------------------------------------------------------------------------
+
 👨‍👩‍👧‍👦 Meet the Team
 
 
@@ -56,6 +59,9 @@ Watch the full 3-minute walkthrough of HUMSAFAR in action:
 
 Built with passion and purpose at a 30-hour global hackathon💡💡💡.
 
+
+
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -78,6 +84,7 @@ Built with passion and purpose at a 30-hour global hackathon💡💡💡.
 📦 Vercel / Render (for hosting)
 
 
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
