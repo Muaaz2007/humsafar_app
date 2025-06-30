@@ -33,8 +33,8 @@ Demo Video --→  https://www.youtube.com/watch?v=NgoQovnJpFw
 
 ## ✨ Features
 
-- 🧠 AI-powered message understanding (Granite Instruct)
-- ✍️ Complaint summarization (Granite 4.0 Tiny)
+- 🧠 AI-powered message understanding
+- ✍️ Complaint summarization 
 - 🚨 Urgency detection with reasoning
 - 🔁 Simulated department routing (CSV-based logic)
 - 💬 Voice or text input + photo upload
@@ -67,7 +67,7 @@ Built with passion and purpose at a 30-hour global hackathon💡💡💡.
 
 🧰 TECHNOLOGIES  USED
 
-🧠 IBM Granite Instruct + Granite 4.0 Tiny
+🧠 IBM Granite 3-3-8b instruct
 
 ⚙️ Flask (Python backend)
 
