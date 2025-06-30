@@ -41,33 +41,6 @@ Watch the full 3-minute walkthrough of HUMSAFAR in action:
 
 ---
 
-## ⚙️ Installation Steps
-
-### 1. Clone this repo:
-
-```bash
-git clone https://github.com/yourusername/humsafar.git
-cd humsafar
-2. Install dependencies
-For frontend:
-
-bash
-Copy
-Edit
-cd client
-npm install
-npm run dev
-For backend (Python + Flask):
-
-bash
-Copy
-Edit
-cd server
-pip install -r requirements.txt
-python app.py
-3. Configure CSV mapping file
-Place your departments.csv in the server folder.
-
 👨‍👩‍👧‍👦 Meet the Team
 Name	Role
 Muaaz	Frontend Lead, Project Coordinator
@@ -107,5 +80,36 @@ Submit a pull request
 
 📦 Vercel / Render (for hosting)
 
+
+
+
+
+## ⚙️ Installation Steps
+
+### 1. Clone this repo:
+
+```bash
+git clone https://github.com/yourusername/humsafar.git
+cd humsafar
+2. Install dependencies
+For frontend:
+
+bash
+Copy
+Edit
+cd client
+npm install
+npm run dev
+For backend (Python + Flask):
+
+bash
+Copy
+Edit
+cd server
+pip install -r requirements.txt
+python app.py
+3. Configure CSV mapping file
+Place your departments.csv in the server folder.
+''
 
 
