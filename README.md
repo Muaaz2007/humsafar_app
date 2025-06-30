@@ -42,28 +42,18 @@ Watch the full 3-minute walkthrough of HUMSAFAR in action:
 ---
 
 👨‍👩‍👧‍👦 Meet the Team
-Name	Role
-Muaaz	Frontend Lead, Project Coordinator
-Abeera Fatima	UI/UX Design Lead
-Fahad	Backend Developer
-Somadev	Documentation & Research
-Rakesh	AI Integration Specialist
+<a href="https://ibb.co/LDyC4DBX"><img src="https://i.ibb.co/sp4FLpcd/Screenshot-2025-06-30-090137.jpg" alt="Screenshot-2025-06-30-090137" border="0"></a>
+<a href="https://ibb.co/Dg4tj6sb"><img src="https://i.ibb.co/PzxNVb3Y/Screenshot-2025-06-30-090121.jpg" alt="Screenshot-2025-06-30-090121" border="0"></a>
 
-💡 Built with passion and purpose at a 30-hour global hackathon.
 
-🤝 Contribution Guidelines (Optional)
-We welcome contributions!
-To contribute:
 
-Fork this repo
+Built with passion and purpose at a 30-hour global hackathon💡💡💡.
 
-Create your feature branch: git checkout -b feature/YourFeatureName
 
-Commit your changes and push
 
-Submit a pull request
 
-🧰 Technologies Used
+🧰 TECHNOLOGIES  USED
+
 🧠 IBM Granite Instruct + Granite 4.0 Tiny
 
 ⚙️ Flask (Python backend)
