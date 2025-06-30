@@ -75,7 +75,7 @@ Built with passion and purpose at a 30-hour global hackathon💡💡💡.
 
 🗃️ CSV-based department mapping
 
-🎤 Voice + text input
+🎤 text input
 
 🖼️ Image upload + preview
 
