@@ -1,14 +1,5 @@
-https://www.youtube.com/watch?v=NgoQovnJpFw
- 
- 
- 
- 
- 
- 
- 
- 
- 
- HUMSAFAR 
+
+  HUMSAFAR 
 
 > *Drop your complaint. We do the chasing.*
 
@@ -23,7 +14,7 @@ HUMSAFAR is an AI-powered platform that simplifies public issue reporting. With 
 ## 🎥 Project Demo
 
 Watch the full 3-minute walkthrough of HUMSAFAR in action:  
-**[Demo Video →](https://www.youtube.com/watch?v=NgoQovnJpFw)**  
+**[Demo Video →]  https://www.youtube.com/watch?v=NgoQovnJpFw
 > Includes AI logic, user flow, urgency detection, and admin dashboard.
 
 ---
