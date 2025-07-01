@@ -121,3 +121,7 @@ Place your departments.csv in the server folder.
 
 You must buy your own Granite 3.3.8b instruct API key and replace it with the one in the code before running to code. 
 Feel free to reach out to us if you need anny assistance.
+
+This is only a POC, there is no API integration that actually registers any complaint.
+
+Make sure to cite us !!
