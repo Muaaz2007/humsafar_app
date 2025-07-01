@@ -1,30 +1,127 @@
-# humsafarapp
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+  HUMSAFAR 
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/saauae80-3128s-projects/v0-humsafarapp)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/73004C05vGY)
+> *Drop your complaint. We do the chasing.*
 
-## Overview
+HUMSAFAR is an AI-powered platform that simplifies public issue reporting. With just a photo, voice or text, and location, anyone can submit a complaint — and HUMSAFAR takes care of the rest. Built using IBM Granite models, it understands, summarizes, prioritizes, and routes complaints to the right department. No forms. No confusion. Just action.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+------------------------------------------------------------------------------------------------------
 
-## Deployment
+## ![Shields](https://img.shields.io/badge/status-Built-blue) ![License](https://img.shields.io/github/license/yourusername/humsafar) ![Built with IBM Granite](https://img.shields.io/badge/AI-IBM%20Granite-blueviolet)
 
-Your project is live at:
+-----------------------------------------------------------------------------------------------------
 
-**[https://vercel.com/saauae80-3128s-projects/v0-humsafarapp](https://vercel.com/saauae80-3128s-projects/v0-humsafarapp)**
+## 🎥 Project Demo
 
-## Build your app
+Watch the full 3-minute walkthrough of HUMSAFAR in action: 
 
-Continue building your app on:
+Demo Video --→  https://www.youtube.com/watch?v=NgoQovnJpFw
 
-**[https://v0.dev/chat/projects/73004C05vGY](https://v0.dev/chat/projects/73004C05vGY)**
+> Includes AI logic, user flow, urgency detection, and admin dashboard.
 
-## How It Works
+-------------------------------------------------------------------------------------------------------
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 📸 Project Screenshots
+
+<a href="https://ibb.co/HDN1wGDs"><img src="https://i.ibb.co/tMZkjYMt/IMG-20250630-WA0006.jpg" alt="IMG-20250630-WA0006" border="0"></a>
+<a href="https://ibb.co/XZwJNc14"><img src="https://i.ibb.co/bgfdqcT3/IMG-20250630-WA0004.jpg" alt="IMG-20250630-WA0004" border="0"></a>
+<a href="https://ibb.co/NnGtzNnX"><img src="https://i.ibb.co/FqdmtYq9/IMG-20250630-WA0005.jpg" alt="IMG-20250630-WA0005" border="0"></a>
+<a href="https://ibb.co/gZVPc4JK"><img src="https://i.ibb.co/v4YQMXkn/IMG-20250630-WA0002.jpg" alt="IMG-20250630-WA0002" border="0"></a>
+<a href="https://ibb.co/F4fwGFdf"><img src="https://i.ibb.co/QvqNs4xq/IMG-20250630-WA0003.jpg" alt="IMG-20250630-WA0003" border="0"></a>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## ✨ Features
+
+- 🧠 AI-powered message understanding
+- ✍️ Complaint summarization 
+- 🚨 Urgency detection with reasoning
+- 🔁 Simulated department routing (CSV-based logic)
+- 💬 Voice or text input + photo upload
+- 🧭 Location tracking with user consent
+- 📊 Admin dashboard with live complaint feed
+- 🌍 Built for global scalability
+
+----------------------------------------------------------------------------------------------------------------------------
+
+👨‍👩‍👧‍👦 Meet the Team
+
+
+
+
+<a href="https://ibb.co/Dg4tj6sb"><img src="https://i.ibb.co/PzxNVb3Y/Screenshot-2025-06-30-090121.jpg" alt="Screenshot-2025-06-30-090121" border="0"></a>
+
+
+<a href="https://ibb.co/LDyC4DBX"><img src="https://i.ibb.co/sp4FLpcd/Screenshot-2025-06-30-090137.jpg" alt="Screenshot-2025-06-30-090137" border="0"></a>
+
+
+
+
+Built with passion and purpose at a 30-hour global hackathon💡💡💡.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+🧰 TECHNOLOGIES  USED
+
+🧠 IBM Granite 3-3-8b instruct
+
+⚙️ Flask (Python backend)
+
+🌐 React + Tailwind CSS
+
+🗃️ CSV-based department mapping
+
+🎤 text input
+
+🖼️ Image upload + preview
+
+🌍 Location API
+
+📦 Vercel / Render (for hosting)
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+## ⚙️ Installation Steps
+
+### 1. Clone this repo:
+
+```bash
+git clone https://github.com/yourusername/humsafar.git
+cd humsafar
+2. Install dependencies
+For frontend:
+
+bash
+Copy
+Edit
+cd client
+npm install
+npm run dev
+For backend (Python + Flask):
+
+bash
+Copy
+Edit
+cd server
+pip install -r requirements.txt
+python app.py
+3. Configure CSV mapping file
+Place your departments.csv in the server folder.
+''
+```
+
+# Note:
+
+You must buy your own Granite 3.3.8b instruct API key and replace it with the one in the code before running to code. 
+Feel free to reach out to us if you need anny assistance.
+
+This is only a POC, there is no API integration that actually registers any complaint.
+
+Make sure to cite us !!
